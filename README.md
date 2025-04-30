@@ -20,7 +20,7 @@ npm install cypress --save-dev
 npx cypress open
 ```
 
-4. Criar o primeiro teste em `cypress/e2e/primeiro-teste.cy.js` - visitar a aplicação:
+4. Criar o primeiro teste em `cypress/e2e/primeiro-teste.cy.js`; visitar a aplicação:
 
 ```
 describe('Primeiro teste', () => {
