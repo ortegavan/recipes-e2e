@@ -2,6 +2,8 @@
 
 ### Fase 1
 
+Detalhes em: https://www.notion.so/Fase-1-1e24e46e326680bd818bc6b10b587b01?pvs=4
+
 1. Inicializar um projeto Node.js:
 
 ```bash
@@ -62,3 +64,10 @@ describe('Verificação de elementos', () => {
     });
 });
 ```
+
+### Fase 2
+
+Detalhes em: https://www.notion.so/Fase-2-1e54e46e326680aeb73cda4d0e337e2d?pvs=4
+
+1. Criar testes em `cypress/e2e/navegacao.cy.js` que visitam os links para área logada e verificam se o redirecionamento para o login está correto;
+2. Criar um teste em `cypress/e2e/pesquisa.cy.js` que pesquisa uma receita existente e verifica se o resultado é exibido corretamente.
